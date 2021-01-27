@@ -279,8 +279,7 @@ footer {
 
 /* feature section */
 #feature {
-  background-image: url("images/jury_background.jpg");
-  background: #f1c11a;
+  background: #FFBB3B;
   
 }
 
@@ -352,7 +351,7 @@ footer {
 
 /* footer section  */
 footer {
-  background: #111112;
+  background: #503424;
 }
 
 footer .copyright-text {
